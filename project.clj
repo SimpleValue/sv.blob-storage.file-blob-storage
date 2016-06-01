@@ -1,4 +1,4 @@
-(defproject sv.blob-storage/file-blob-storage "0.1.0"
+(defproject sv.blob-storage/file-blob-storage "0.1.1-SNAPSHOT"
   :description "A blob storage implementation that uses the file
                 system as storage."
   :license {:name "Eclipse Public License"
